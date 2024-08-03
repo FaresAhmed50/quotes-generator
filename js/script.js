@@ -54,9 +54,33 @@ var quates = [
     {
         quote : `“Don’t walk in front of me… I may not follow Don’t walk behind me… I may not lead Walk beside me… just be my friend”`,
         quote_author : "― Albert Camus",
+    },
+
+    {
+        quote : "“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”",
+        quote_author : "― J.K. Rowling, Harry Potter and the Goblet of Fire",
+    },
+
+    {
+        quote : "“Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”",
+        quote_author : "― H. Jackson Brown Jr., P.S. I Love You"
+    },
+
+    {
+        quote : "“It is better to be hated for what you are than to be loved for what you are not.”",
+        quote_author : "― Andre Gide, Autumn Leaves",
+    },
+
+
+    {
+        quote : "“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.”",
+        quote_author : "― Ralph Waldo Emerson"
+    },
+
+    {
+        quote : "“Live as if you were to die tomorrow. Learn as if you were to live forever.”",
+        quote_author : "― Mahatma Gandhi",
     }
-
-
 ]
 
 
